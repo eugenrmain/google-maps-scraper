@@ -12,8 +12,8 @@ import json
 
 # Setup and initial configurations
 URL = "https://www.google.com/maps"
-service = "Salon"  # e.g. catering, events, etc.
-location = "Stockholm"  # e.g. London, Germany, etc.
+service = "SERVICE"  # e.g. catering, events, etc.
+location = "LOCATION"  # e.g. London, Germany, etc.
 
 print("Starting the web scraping script...")
 
